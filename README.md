@@ -57,7 +57,7 @@ Este repositório contém a documentação e exemplos práticos relacionados à 
 - Princípio do menor privilégio para permissões IAM.
 - Scans de vulnerabilidade com ferramentas como Trivy.
 
-## 4. Infrastructure as Code com Terraform
+## 4. Infraestrutura de Codigo com Terraform
 
 ### 4.1 Manifestos para Provisionamento de Recursos
 - Exemplos incluem:
